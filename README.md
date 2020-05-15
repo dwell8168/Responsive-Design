@@ -7,7 +7,7 @@ In this module challenge you will continue working on your portfolio website to 
 ## Responsive Design
 
 ## Objectives
-
+changes delete
 - describe the differences in fixed, fluid, adaptive, and responsive layouts
 - implement media queries in a project.
 - describe and use responsive units (px, em, rem, %, and vw.vh) to create a fully responsive website
